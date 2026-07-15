@@ -14,7 +14,7 @@ There are two editions. Pick the one that matches the AI you use:
 Download one zip and follow the `INSTALL.md` inside it.
 
 - **Claude:** enable Code execution and file creation, then upload the zip as a skill under Customize > Skills.
-- **Codex:** unzip and copy `skills/clean-my-ai-harness-codex` into your repository's `.agents/skills/` folder.
+- **Codex:** requires Python 3.10+; unzip and copy the `clean-my-ai-harness-codex` folder into `~/.codex/skills/`.
 
 Then open the project you want to review and say:
 
